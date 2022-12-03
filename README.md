@@ -1,4 +1,4 @@
-CS 211 assignments
+## CS 211 assignments
 
 2. Implementation of merge sort.
 3. Implementation of radix sort using counting sort.
