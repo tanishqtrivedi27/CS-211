@@ -1,5 +1,7 @@
 ## CS 211 assignments - DSA LAB - IIT Dharwad
 
+# Assignments, Data Structures and Algorithms Lab
+
 2. Implementation of merge sort.
 3. Implementation of radix sort using counting sort.
 4. Implement doubly linked list, stack and queue.
