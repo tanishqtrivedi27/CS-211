@@ -1,0 +1,143 @@
+enqueued 65 
+enqueued 49 
+enqueued 40 
+dequeued 65
+49 40 
+49 40 
+not found 44
+49 40 
+enqueued 10 
+dequeued 49
+enqueued 33 
+40 10 33 
+40 10 33 
+dequeued 40
+not found 85
+10 33 
+not found 95
+not found 49
+not found 0
+10 33 
+not found 2
+10 33 
+enqueued 20 
+10 33 20 
+10 33 20 
+10 33 20 
+dequeued 10
+33 20 
+dequeued 33
+enqueued 5 
+enqueued 3 
+not found 65
+enqueued 45 
+not found 57
+20 5 3 45 
+enqueued 52 
+dequeued 20
+enqueued 36 
+enqueued 61 
+enqueued 84 
+enqueued 10 
+5 3 45 52 36 61 84 10 
+5 3 45 52 36 61 84 10 
+enqueued 33 
+dequeued 5
+3 45 52 36 61 84 10 33 
+dequeued 3
+not found 72
+enqueued 51 
+not found 9
+enqueued 56 
+45 52 36 61 84 10 33 51 56 
+enqueued 41 
+not found 97
+45 52 36 61 84 10 33 51 56 41 
+45 52 36 61 84 10 33 51 56 41 
+45 52 36 61 84 10 33 51 56 41 
+enqueued 92 
+45 52 36 61 84 10 33 51 56 41 92 
+enqueued 94 
+enqueued 20 
+45 52 36 61 84 10 33 51 56 41 92 94 20 
+enqueued 53 
+enqueued 81 
+dequeued 45
+dequeued 52
+enqueued 0 
+not found 98
+not found 80
+36 61 84 10 33 51 56 41 92 94 20 53 81 0 
+not found 46
+dequeued 36
+not found 75
+enqueued 29 
+enqueued 26 
+dequeued 61
+84 10 33 51 56 41 92 94 20 53 81 0 29 26 
+dequeued 84
+not found 60
+dequeued 10
+33 51 56 41 92 94 20 53 81 0 29 26 
+33 51 56 41 92 94 20 53 81 0 29 26 
+found 56
+enqueued 58 
+33 51 56 41 92 94 20 53 81 0 29 26 58 
+not found 8
+dequeued 33
+not found 44
+not found 15
+enqueued 68 
+enqueued 81 
+not found 93
+enqueued 2 
+enqueued 84 
+overflow 
+51 56 41 92 94 20 53 81 0 29 26 58 68 81 2 84 
+51 56 41 92 94 20 53 81 0 29 26 58 68 81 2 84 
+dequeued 51
+56 41 92 94 20 53 81 0 29 26 58 68 81 2 84 
+overflow 
+overflow 
+dequeued 56
+41 92 94 20 53 81 0 29 26 58 68 81 2 84 
+overflow 
+dequeued 41
+overflow 
+92 94 20 53 81 0 29 26 58 68 81 2 84 
+dequeued 92
+overflow 
+not found 1
+94 20 53 81 0 29 26 58 68 81 2 84 
+dequeued 94
+20 53 81 0 29 26 58 68 81 2 84 
+20 53 81 0 29 26 58 68 81 2 84 
+not found 6
+20 53 81 0 29 26 58 68 81 2 84 
+overflow 
+not found 21
+overflow 
+dequeued 20
+not found 27
+not found 51
+not found 97
+overflow 
+overflow 
+not found 21
+overflow 
+53 81 0 29 26 58 68 81 2 84 
+overflow 
+dequeued 53
+not found 99
+not found 76
+overflow 
+81 0 29 26 58 68 81 2 84 
+dequeued 81
+not found 23
+not found 3
+overflow 
+0 29 26 58 68 81 2 84 
+overflow 
+0 29 26 58 68 81 2 84 
+not found 37
+0 29 26 58 68 81 2 84 
